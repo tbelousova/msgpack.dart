@@ -5,5 +5,7 @@ authors:
 - Kenneth Endfinger <kaendfinger@gmail.com>
 - Dan Ellis <dan@danellis.me>
 homepage: https://github.com/DirectMyFile/msgpack.dart
+environment:
+  sdk: '>=2.0.0 <3.0.0'
 dev_dependencies:
   test: ">=0.12.13"
